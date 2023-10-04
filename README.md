@@ -7,6 +7,8 @@
 •	Enriched player engagement with an assortment of 11 distinctive snake skins, enhancing personalization options.
 •	Elevated challenge by integrating responsive enemies that react to the players' movements, adding an element of unpredictability.
 
+![image](https://github.com/Bhuneshwar-Prasad/snake-game/assets/89536767/b94a0765-bf53-4721-a8f2-6250614b2cec)
+
 
 ![image](https://github.com/Bhuneshwar-Prasad/snake-game/assets/89536767/5fe02b56-1edf-44f4-a818-71f6312fb2aa)
 
